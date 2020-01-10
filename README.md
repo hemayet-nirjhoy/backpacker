@@ -25,6 +25,6 @@ Seats are Oriented based on the actual position of the seats in bus. Red mark se
 ![](screenshot/select-seat.png)
 
 # Admin Panel
-Admin panel have the root previlige of the websites. Admin can add or cancel any trip, he can modify the date and time if he want to do. Those screenshots will be updated here very soon. 
+Admin panel have the root privilige of the websites. Admin can add or cancel any trip, he can modify the date and time if he want to do. Those screenshots will be updated here very soon. 
 
 Thank you.
