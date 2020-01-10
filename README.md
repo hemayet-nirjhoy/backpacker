@@ -18,7 +18,7 @@ This page will show the available trip based on the date and the route choosen b
 # Seat Orientation
 Seats are Oriented based on the actual position of the seats in bus. 
 
-![](screenshot/sit-orientation.png)
+![](screenshot/seat-orientation.png)
 
 # Seat Selection
 
