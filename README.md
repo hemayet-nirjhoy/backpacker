@@ -24,6 +24,12 @@ Seats are Oriented based on the actual position of the seats in bus. Red mark se
 
 ![](screenshot/select-seat.png)
 
+# Print Ticket
+
+Booked ticket information is shown here. Passenger can print the ticket also. 
+
+![](screenshot/print-ticket.png)
+
 # Admin Panel
 Admin panel have the root privilige of the websites. Admin can add or cancel any trip, he can modify the date and time if he want to do. Those screenshots will be updated here very soon. 
 
