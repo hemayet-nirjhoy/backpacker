@@ -6,7 +6,7 @@ An Online Bus Ticket reservation system.
 ![](screenshot/backpacker.png)
 
 # Passenger Profile
-A passenger must be signed up for using the service of the Backpacker. He/She can edit his profile information anytime. 
+A passenger must be registered for using the service of the Backpacker. He/She can edit his profile information anytime. 
 
 ![](screenshot/backpacker-profile.png)
 
@@ -16,7 +16,7 @@ This page will show the available trip based on the date and the route choosen b
 ![](screenshot/backpacker-availabletrip.png)
 
 # Seat Orientation
-Seats are Oriented based on the actual position of the seats in bus. Red mark seats are already booked by someone, a passenger cant select those seat untill anyone cancel his/her trip
+Seats are Oriented based on the actual position of the seats in bus. Red mark seats are already booked by others, a passenger cant select those seat (red marked) untill anyone cancel his/her trip
 
 ![](screenshot/seat-orientation.png)
 
@@ -25,6 +25,6 @@ Seats are Oriented based on the actual position of the seats in bus. Red mark se
 ![](screenshot/select-seat.png)
 
 # Admin Panel
-Admin panel have the root previlige of the websites. Admin can add or cancell any trip, he can modify the date and time if he want to do. Those screenshots will be update here very soon. 
+Admin panel have the root previlige of the websites. Admin can add or cancel any trip, he can modify the date and time if he want to do. Those screenshots will be updated here very soon. 
 
 Thank you.
