@@ -16,7 +16,7 @@ This page will show the available trip based on the date and the route choosen b
 ![](screenshot/backpacker-availabletrip.png)
 
 # Seat Orientation
-Seats are Oriented based on the actual position of the seats in bus. Red mark seats are already booked by someone, a passenger cant select those seat untill anyone cancell his/her trip
+Seats are Oriented based on the actual position of the seats in bus. Red mark seats are already booked by someone, a passenger cant select those seat untill anyone cancel his/her trip
 
 ![](screenshot/seat-orientation.png)
 
@@ -24,7 +24,7 @@ Seats are Oriented based on the actual position of the seats in bus. Red mark se
 
 ![](screenshot/select-seat.png)
 
-#Admins Panel
+# Admin Panel
 Admin panel have the root previlige of the websites. Admin can add or cancell any trip, he can modify the date and time if he want to do. Those screenshots will be update here very soon. 
 
 Thank you.
