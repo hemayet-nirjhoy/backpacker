@@ -16,11 +16,11 @@ This page will show the available trip based on the date and the route choosen b
 ![](screenshot/backpacker-availabletrip.png)
 
 # Seat Orientation
-Seats are Oriented based on the actual position of the sits in bus. 
+Seats are Oriented based on the actual position of the seats in bus. 
 
 ![](screenshot/sit-orientation.png)
 
 # Seat Selection
 
-![](screenshot/select-sit.png)
+![](screenshot/select-seat.png)
 
